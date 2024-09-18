@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on **Prime Parking Application**
 
-- 💬 Let's talk ** JavsScript , React, SvelteKit, Node, and everything Frontend—I'm all in!
-**
+- 💬 Let's talk **JavsScript , React, SvelteKit, Node, and everything Frontend—I'm all in!**
 - 📫 How to reach me **ashuvaryani123@gmail.com**
 
 - ⚡ Fun fact **I think I am more curious!**
