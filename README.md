@@ -19,7 +19,7 @@
 <h3 align="left">Problem Solving</h3>
 <a href="https://www.hackerrank.com/ashuvaryani123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashuvaryani123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashuvaryani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashuvaryani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashuvaryani](https://www.geeksforgeeks.org/user/ashishvaryani" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="ashuvaryani" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/ashishvaryani" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="ashuvaryani" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
