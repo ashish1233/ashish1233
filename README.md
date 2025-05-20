@@ -9,7 +9,13 @@
 - 💬 Let's talk about **JavsScript , React, SvelteKit, Node, and everything related to Web — I'm all in!**
 - 📫 How to reach me **ashuvaryani123@gmail.com**
 
-- ⚡ Fun fact **I think I am more curious!**
+<h3 align="left">Contributions in another github account:</h3>
+<p align="left">
+<a href="https://github.com/ashish-varyani" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashish-varyani-b4366414b" height="30" width="40" />
+</a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
